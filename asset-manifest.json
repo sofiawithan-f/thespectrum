@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thespectrum/static/css/main.765e5daf.css",
-    "main.js": "/thespectrum/static/js/main.44a2295f.js",
-    "static/media/Sofia6414.jpg": "/thespectrum/static/media/Sofia6414.1e30b88e858bc83df043.jpg",
-    "static/media/SmartFrocksNf-BdrG.ttf": "/thespectrum/static/media/SmartFrocksNf-BdrG.8abab1ba341e18fb2704.ttf",
-    "index.html": "/thespectrum/index.html",
-    "main.765e5daf.css.map": "/thespectrum/static/css/main.765e5daf.css.map",
-    "main.44a2295f.js.map": "/thespectrum/static/js/main.44a2295f.js.map"
+    "main.css": "/static/css/main.835e0f1e.css",
+    "main.js": "/static/js/main.6ec4c330.js",
+    "static/media/Sofia6414.jpg": "/static/media/Sofia6414.1e30b88e858bc83df043.jpg",
+    "static/media/SmartFrocksNf-BdrG.ttf": "/static/media/SmartFrocksNf-BdrG.8abab1ba341e18fb2704.ttf",
+    "index.html": "/index.html",
+    "main.835e0f1e.css.map": "/static/css/main.835e0f1e.css.map",
+    "main.6ec4c330.js.map": "/static/js/main.6ec4c330.js.map"
   },
   "entrypoints": [
-    "static/css/main.765e5daf.css",
-    "static/js/main.44a2295f.js"
+    "static/css/main.835e0f1e.css",
+    "static/js/main.6ec4c330.js"
   ]
 }
