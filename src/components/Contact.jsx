@@ -1,11 +1,12 @@
 import React from "react";
+import "./index.css";
 
 const Contact = () => {
     return (
-        <>
-        <p>Hi</p>
-        <h1>Sofia and the Spectrum</h1>
-        </>
+        <main>
+        <div style = {{height: 100 }}></div>
+        <p>contact</p>
+        </main>
     );
 };
 export default Contact

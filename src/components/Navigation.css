@@ -1,0 +1,45 @@
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: var (--z-fixed);
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    height: var(--header-height);
+    margin:1rem;
+    width: 100%;
+
+}
+
+.nav-link{
+    font-family: "SmartFrocks";
+    font-size: 50px;
+    color: black;
+}
+
+.nav__logo {
+    color: var(--first-color);
+    transition: color 0.4s;
+    font-size: var(--h2-font-size);
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+
+   }
+
+.nav-list{
+    display: flex;
+    flex-direction: row;
+    column-gap: 2.5rem;
+    margin-left: 100px;
+    
+}
+
+ul {
+    list-style-type: none;
+  }
