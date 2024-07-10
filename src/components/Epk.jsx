@@ -3,7 +3,7 @@ import styles from "../pages.module.css"
 const Epk = () => {
     return (
         <main>
-        <div style = {{height: 100 }}></div>
+        <div style = {{height: 150 }}></div>
         <div className="page">
       
         <p className ={styles.bio}>Sofia and the Spectrum began as a joke. <br></br> <br></br>
