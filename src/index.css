@@ -33,3 +33,10 @@ code {
    url("./fonts/SmartFrocks/SmartFrocksNf-BdrG.ttf") format("truetype");
   font-weight: bold;
  }
+
+ @media only screen and (max-width: 768px){
+  body{
+    background-image: url("./Sofia6414_phone.jpg");
+  }
+
+ }

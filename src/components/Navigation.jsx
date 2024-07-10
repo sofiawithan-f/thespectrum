@@ -38,9 +38,9 @@ function Navigation() {
                   Contact
                 </NavLink>
               </li>
-              <li className = "nav-socials"><a href = "https://www.instagram.com/sofia_and_the_spectrum"><img src = {instagram} alt =""/></a></li>
-              <li className = "nav-socials"><a href = "https://www.youtube.com/@SofiaandtheSpectrum"><img src = {youtube} alt =""/></a></li>
-              <li className = "nav-socials"><a href = "https://www.facebook.com/profile.php?id=61561658813969"><img src = {facebook} alt =""/></a></li>
+              <li className = "nav-socials"><a href = "https://www.instagram.com/sofia_and_the_spectrum"><img className = "social" src = {instagram} alt =""/></a></li>
+              <li className = "nav-socials"><a href = "https://www.youtube.com/@SofiaandtheSpectrum"><img className = "social" src = {youtube} alt =""/></a></li>
+              <li className = "nav-socials"><a href = "https://www.facebook.com/profile.php?id=61561658813969"><img className = "social" src = {facebook} alt =""/></a></li>
             </ul>
       </div>
       </nav>
