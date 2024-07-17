@@ -32,6 +32,16 @@ code {
 li{
   display: inline-block;
   margin-right: 30px;
+
+}
+
+.page-element{
+  display: inline-block;
+}
+
+iframe{
+  width: 400px;
+  height: 180px;
 }
 .box1{
   background-color: white; 
