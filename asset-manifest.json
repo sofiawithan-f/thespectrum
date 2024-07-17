@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e12b97d5.css",
-    "main.js": "/static/js/main.63757333.js",
+    "main.css": "/static/css/main.b5cfcca0.css",
+    "main.js": "/static/js/main.f2f7a5c6.js",
     "static/media/Sofia6414.jpg": "/static/media/Sofia6414.1e30b88e858bc83df043.jpg",
     "static/media/Sofia6414_phone.jpg": "/static/media/Sofia6414_phone.cf611a6b2ec3f709af38.jpg",
     "static/media/SmartFrocksNf-BdrG.ttf": "/static/media/SmartFrocksNf-BdrG.8abab1ba341e18fb2704.ttf",
     "index.html": "/index.html",
-    "main.e12b97d5.css.map": "/static/css/main.e12b97d5.css.map",
-    "main.63757333.js.map": "/static/js/main.63757333.js.map"
+    "main.b5cfcca0.css.map": "/static/css/main.b5cfcca0.css.map",
+    "main.f2f7a5c6.js.map": "/static/js/main.f2f7a5c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e12b97d5.css",
-    "static/js/main.63757333.js"
+    "static/css/main.b5cfcca0.css",
+    "static/js/main.f2f7a5c6.js"
   ]
 }
